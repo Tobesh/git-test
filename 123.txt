@@ -1,1 +1,4 @@
-public ("hello, wordl")
+<meta charset="utf-8">
+<script>
+alert('hello, fucking wordl')
+</script>
